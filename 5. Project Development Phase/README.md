@@ -102,3 +102,7 @@ http://127.0.0.1:5000
 ## Author
 
 Bhavana Aki
+Swaran Karubothu
+Varada Sai Vani
+Naga Yasaswi Kola
+Manohar Katlagunta
