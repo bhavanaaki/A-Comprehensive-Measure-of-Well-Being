@@ -47,4 +47,4 @@ A Comprehensive Measure of Well-Being is a machine learning-based web applicatio
 - Swaran Karubothu
 - Varada Sai Vani
 - Naga Yasaswi Kola
-- Manohar Katlagunta
+- Manohar Katlagunta 
